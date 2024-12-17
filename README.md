@@ -7,6 +7,7 @@
 - When the pool is reloaded, the user won't be able to use the previous word pair a second time. For example, if the user has used the pair sky-star at stage 1, then he/she won't be able to use it again if the pool reloads
 - The APIs are developed in such a manner that they can handle multiple users at the same time
 - A database is also integrated to reduce the response time for already-used word pair
+- This also develops the way to use Google Speech to text and integrates it as another user input method
 
 
 ## About:
